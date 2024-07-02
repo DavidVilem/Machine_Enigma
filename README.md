@@ -22,3 +22,12 @@ La seguridad proporcionada por la máquina Enigma dio a los alemanes una falsa s
 ### Importancia en la Criptografía
 
 La máquina Enigma es una de las herramientas de cifrado más conocidas de la historia y representa un avance significativo en la criptografía. Su estudio no solo ayudó a mejorar las técnicas de descifrado durante la guerra, sino que también sentó las bases para el desarrollo de la criptografía moderna y la teoría de la computación.
+
+# Referencias y Fuentes Externas
+
+En el desarrollo de este proyecto y la creación del contenido relacionado, se ha utilizado la siguiente fuente externa para obtener información sobre la máquina Enigma:
+
+- [Video de YouTube: Enigma Machine - Numberphile](https://youtu.be/ybkkiGtJmkM?si=PpucCKGMd8T9KMFA)
+
+Este video proporciona una explicación detallada sobre el funcionamiento de la máquina Enigma y su impacto histórico. Recomiendo verlo para obtener una comprensión más profunda de la complejidad y la importancia de esta máquina en la historia de la criptografía.
+
